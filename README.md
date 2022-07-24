@@ -1,7 +1,5 @@
 # Krakend Docker
 
-
-
 Keakend is a microservice architecture for building RESTful APIs.
 To see the full documentation, visit [https://krakend.io](https://krakend.io).
 
