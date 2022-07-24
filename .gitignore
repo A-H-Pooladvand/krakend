@@ -1,0 +1,12 @@
+./src/*
+!/src/.gitkeep
+/mysql/*
+!/mysql/.keep
+/redis/*
+!/redis/.keep
+.idea
+.env
+
+/swag/config/
+/data/*
+/src/*
